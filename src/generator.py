@@ -12,8 +12,7 @@ This module focuses on:
 
 Notes
 -----
-- This is a prototype helper module. Read THREAT_MODEL.md and SECURITY.md
-  before using derived keys for anything sensitive.
+- This is a prototype helper module. 
 - For reproducible keys you must supply and protect a deterministic salt/seed.
 """
 
