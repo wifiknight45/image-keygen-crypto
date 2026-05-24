@@ -1,3 +1,25 @@
+<p align="center">
+  <a href="https://www.python.org/downloads/">
+    <img src="https://img.shields.io/badge/Python-3.9%2B-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Python 3.9+" height="32"/>
+  </a>
+  <a href="https://pypi.org/project/cryptography/">
+    <img src="https://img.shields.io/badge/cryptography-HKDF%20%2F%20SHA--256-FF6B35?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Cryptography" height="32"/>
+  </a>
+  <a href="https://python-pillow.org/">
+    <img src="https://img.shields.io/badge/Pillow-Image%20Engine-00C49A?style=for-the-badge&logo=imagemagick&logoColor=white" alt="Pillow" height="32"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Entropy-CSPRNG%20%2B%20Chaos-BF5FFF?style=for-the-badge&logo=buffer&logoColor=white" alt="Entropy" height="32"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/CLI-Batch%20%7C%20Single-1D9BF0?style=for-the-badge&logo=gnubash&logoColor=white" alt="CLI" height="32"/>
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-F72585?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License" height="32"/>
+  </a>
+</p>
+
+
 Prototype toolkit to generate varied images and derive cryptographic keys.
 
 Features
